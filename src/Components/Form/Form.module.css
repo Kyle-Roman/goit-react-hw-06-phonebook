@@ -1,0 +1,34 @@
+.form {
+  width: 600px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: 2px 2px 2px grey;
+}
+
+.label {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.input {
+  display: inline-flex;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.button {
+  width: 120px;
+  height: 25px;
+  border: none;
+  border-radius: 3px;
+  color: #fff;
+  background-color: green;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}

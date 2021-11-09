@@ -1,0 +1,16 @@
+.wrapper {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+  border-bottom: 2px solid green;
+}
+
+.label {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.input {
+  margin-left: 20px;
+}
